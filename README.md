@@ -102,6 +102,7 @@ A way KISS (Keep It Simple Stupid), integrated TAK with ESP LoRa Module
 </table>
 
 ## Showcase
+Click, for open Youtube:
 <div>
   <a href="https://youtu.be/5yOXxnAvmlE">
     <img src="https://github.com/YD1RUH/KISS_LoRa_TAK/blob/main/images/KISS_Interface_TAK.gif" alt="Watch on YouTube" width="480" width="80%">
