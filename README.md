@@ -18,7 +18,7 @@ A way KISS (Keep It Simple Stupid), integrated TAK with ESP LoRa Module
 
 ## How to use
 1. **First**, KISS_LoRa_TAK will be started as a **HotSpot**, information **SSID** and **Password** will be apear in **OLED**
-2. Open browser using Incognito Mode, then access url `tak.local`. this is a webUI for LoRa Parameter Configuration <br><p>
+2. Open browser using Incognito Mode, then access url `tak.local`. this is a webUI for LoRa Parameter Configuration: <br><p>
   <img src="https://github.com/YD1RUH/KISS_LoRa_TAK/blob/main/images/webUI_Config.jpg?raw=true" alt="KISS_LoRa_TAK" width="40%"></p>
 3. **It's Recomended** to do configuration on **Config Menu**. after you Click **Save**, KISS_LoRa_TAK will reboot then **SSID** and **Password** will be changes also the LoRa configuration.
 4. Connect again to **KISS_LoRa_TAK** hotspot with your new configuration.
