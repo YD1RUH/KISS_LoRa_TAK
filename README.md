@@ -35,7 +35,6 @@ A way KISS (Keep It Simple Stupid), integrated TAK with ESP LoRa Module
 5. now you KISS_LoRa_TAK will be forwarded every `CoT`, `PoI`, `Geofence`, and `message` over **LoRa**
 
 ## Feedback
-- **Really apreciate** if your mind give me a feedbeack: [Submit Feedback](https://forms.gle/ndPy9DZC3oz5MFPu8)
 - **Support** me: [Pateron](https://www.patreon.com/YD1RUH)
 
 ## Recommendation LoRa Configuration
