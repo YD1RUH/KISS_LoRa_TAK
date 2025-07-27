@@ -105,3 +105,5 @@ A way KISS (Keep It Simple Stupid), integrated TAK with ESP LoRa Module
 ## Next To Do ...
 - Collaboaration build for another boards
 - Waiting someone crazy funding this project to create rugged device
+
+<a href="https://info.flagcounter.com/V2ew"><img src="https://s01.flagcounter.com/map/V2ew/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
