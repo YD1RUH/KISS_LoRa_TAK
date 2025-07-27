@@ -24,11 +24,11 @@ A way KISS (Keep It Simple Stupid), integrated TAK with ESP LoRa Module
 4. Connect again to **KISS_LoRa_TAK** hotspot with your new configuration.
 
 ## How to start with ATAK
-1. Open ATAK
+1. Open **ATAK**
 2. select `Setting` - `Network Preferences` - `Network Connection preferences` - `Manage Server Connection` - `klik hamburger icon` - `Choose Add`
-3. fill the setting like this <br><p>
+3. fill the setting like this: <br><p>
   <img src="https://github.com/YD1RUH/KISS_LoRa_TAK/blob/main/images/network_Config.jpg?raw=true" alt="KISS_LoRa_TAK" width="40%"></p>
-4. after select `OK`, thick cheklist connection, and wait until CoT streaming status **green** like this <br><p>
+4. after select `OK`, thick cheklist connection, and wait until CoT streaming status **green** like this: <br><p>
   <img src="https://github.com/YD1RUH/KISS_LoRa_TAK/blob/main/images/Result.jpg?raw=true" alt="KISS_LoRa_TAK" width="40%"></p>
 5. now you KISS_LoRa_TAK will be forwarded every `CoT`, `PoI`, `Geofence`, and `message` over **LoRa**
 
