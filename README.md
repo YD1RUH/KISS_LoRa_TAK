@@ -36,7 +36,11 @@ Using lower voltages (e.g., 3.7V) may result in insufficient power and unstable 
   <img src="https://github.com/YD1RUH/KISS_LoRa_TAK/blob/main/images/network_Config.jpg?raw=true" alt="KISS_LoRa_TAK" width="40%"></p>
 4. after select `OK`, thick cheklist connection, and wait until CoT streaming status **green** like this: <br><p>
   <img src="https://github.com/YD1RUH/KISS_LoRa_TAK/blob/main/images/Result.jpg?raw=true" alt="KISS_LoRa_TAK" width="40%"></p>
-5. now you KISS_LoRa_TAK will be forwarded every `CoT`, `PoI`, `Geofence`, and `message` over **LoRa**
+5. select `Setting` - `Network Preferences` - `Network Connection preferences` - `Monitor Server Connection`. DISABLE/UNCHECK/UNTHICK IT: <br><p>
+  <img src="https://github.com/YD1RUH/KISS_LoRa_TAK/blob/main/images/disable.jpeg?raw=true" alt="KISS_LoRa_TAK" width="40%"></p>
+6. now you KISS_LoRa_TAK will be forwarded every `CoT`, `PoI`, `Geofence`, and `message` over **LoRa**
+
+
 
 ## Feedback
 - **Support** me: [Pateron](https://www.patreon.com/YD1RUH)
