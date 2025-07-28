@@ -14,6 +14,10 @@ A way KISS (Keep It Simple Stupid), integrated TAK with ESP LoRa Module
 - download esptool, you can download form [here](https://github.com/espressif/esptool/releases)
 - unzip, then set the path directory of esptool that you unzip to `windows environtment variable`
 
+### ⚠️ Power Requirement Warning:
+Ensure that you operate this device using a 5V DC power source (such as a USB power adapter or power bank).
+Using lower voltages (e.g., 3.7V) may result in insufficient power and unstable performance.
+
 ### TTGO LoRa32-OLED
 - on directory `KISS_LoRa_TAK`, open CMD and execute this command: `esptool --chip esp32 --port COM[change your port Detected] --baud 460800 write-flash 0x10000 firmware.bin 0x290000 spiffs.bin`
 - wait until Upload Process done.
